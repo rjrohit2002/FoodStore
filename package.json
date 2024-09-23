@@ -1,0 +1,30 @@
+{
+  "name": "foodorderingapp",
+  "version": "1.0.0",
+  "description": "This is Frontend of Food Ordering App",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjrohit2002/FoodOrderingApp.git"
+  },
+  "author": "Rohit Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjrohit2002/FoodOrderingApp/issues"
+  },
+  "homepage": "https://github.com/rjrohit2002/FoodOrderingApp#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
